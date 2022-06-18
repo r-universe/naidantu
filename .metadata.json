@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bmggum",
+    "oncran": true
+  },
+  {
+    "package": "fcirt",
+    "oncran": true
+  }
+]

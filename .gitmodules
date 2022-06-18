@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bmggum"]
+	path = bmggum
+	url = https://github.com/naidantu/bmggum
+	shallow = true
+	registered = true
+[submodule "fcirt"]
+	path = fcirt
+	url = https://github.com/naidantu/fcirt
+	shallow = true
+	registered = true
